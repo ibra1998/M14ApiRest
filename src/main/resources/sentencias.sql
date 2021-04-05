@@ -1,0 +1,4 @@
+CREATE TABLE `shops`
+DEFAULT CHARACTER SET utf8 COLLATE utf8_spanish_ci;
+CREATE TABLE `pictures`
+DEFAULT CHARACTER SET utf8 COLLATE utf8_spanish_ci;

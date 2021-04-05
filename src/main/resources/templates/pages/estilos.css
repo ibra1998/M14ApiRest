@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+article{
+	text-align:center;
+	margin: 20px;
+	margin-top:20px;
+}
+table{
+	margin-left: 5%;
+	margin-top:10%;
+	min-width:100px;
+}
+body{
+	background-color: #FF000045
+}
+#picureForm-div, #formulario-div{
+	position:absolute;
+	text-align:left;
+	background-color: #FF000050;
+	border-radius:10px;
+	width:70%;
+	padding:50px;
+	margin-left:20%;
+}
+table, th, td {
+  border: 1px solid black;
+}
+input{
+	background-color: #668153c4;
+}
